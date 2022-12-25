@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\bin\Debug\net6.0\multiplication_Console.exe
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\bin\Debug\net6.0\multiplication_Console.deps.json
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\bin\Debug\net6.0\multiplication_Console.runtimeconfig.json
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\bin\Debug\net6.0\multiplication_Console.dll
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\bin\Debug\net6.0\multiplication_Console.pdb
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\multiplication_Console.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\multiplication_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\multiplication_Console.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\multiplication_Console.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\multiplication_Console.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\multiplication_Console.dll
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\refint\multiplication_Console.dll
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\multiplication_Console.pdb
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\multiplication_Console.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\元件開發作業\component_Solution\multiplication_Console\obj\Debug\net6.0\ref\multiplication_Console.dll
